@@ -3,3 +3,4 @@ xgb214/
 __pycache__/
 *.pyc
 esg-risk-analysis-insights-from-s-p-500-companies.ipynb
+.DS_Store
